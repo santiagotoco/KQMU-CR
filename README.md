@@ -1,5 +1,5 @@
-# KQMU-CR
-Continuous Regression based on KQMU
+# KDM-CR (KQMU-CR)
+Continuous Regression based on Kernel Density Matrices
 
 ### References
 
